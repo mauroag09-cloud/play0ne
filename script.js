@@ -1,1 +1,1 @@
-console.log("Play0ne cargado correctamente ✅");
+console.log("PlayOne está activo 🚀");
